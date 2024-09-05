@@ -1,4 +1,4 @@
-# Getting Started with Thai Alphabets
+# Getting Started with Gor-gai
 
 Memorize Thai Alphabets with Myanmar pronounciation that generate randomly.
 
