@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Thai Alphabets
+
+Memorize Thai Alphabets with Myanmar pronounciation that generate randomly.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
